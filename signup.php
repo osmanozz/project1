@@ -1,6 +1,6 @@
 <html>
   <head>
-
+ 
     <title></title>
   </head>
     <body>
@@ -17,7 +17,7 @@
 
           </form>
    </body>
-</html> 
+</html>
 
 <?php
 

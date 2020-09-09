@@ -2,7 +2,7 @@
   <head>
 
   </head>
-    <body> 
+    <body>
       <form action="signup.php" method="get">
       E-mail <input type="text" name="e-mail" required><br>
               <input type="button" value="Send">
@@ -14,3 +14,4 @@
 <?php
 
  ?>
+ 

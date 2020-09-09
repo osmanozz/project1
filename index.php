@@ -9,7 +9,7 @@
         <input type="submit" value="Log in">
             <br>
           <a href="lospsw.php">Wachtwoord vergeten</a>
-            <br> 
+            <br>  
           <a href="signup.php">Nieuw account</a>
 
     </form>
