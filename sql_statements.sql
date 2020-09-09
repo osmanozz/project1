@@ -10,7 +10,7 @@ Voornaam varchar(255),
 Tussenvoegsel varchar(255), 
 Achternaam varchar(255), 
 Gebruikersnaam varchar(255), 
-account_id int, PRIMARY KEY(id), 
+account_id int, PRIMARY KEY(id),  
 FOREIGN KEY(account_id) REFERENCES account(id) 
 );
 
