@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+input {
+  border-style: groove;
+  margin: 10px;
+}
+#parent {
+  width: 300px;
+  margin: 200 auto;
+}
+#form {
+  display: table-caption;
+  text-align: left;
+}
+.knop {
+border-style: dashed;
+}
+a {
+  text-decoration: none;
+}
